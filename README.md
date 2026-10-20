@@ -1,2 +1,2 @@
 # eh-status-legal
-Official legal pages for EH Status, a Discord bot for displaying and managing Notruf Hamburg server information.
+Offizielle rechtliche Informationsseiten für EH Status, einen Discord-Bot zur Anzeige und Verwaltung von Serverinformationen für Notruf Hamburg.
