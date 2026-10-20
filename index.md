@@ -1,12 +1,12 @@
 # EH Status
 
-Welcome to the official legal information page for EH Status.
+Willkommen auf der offiziellen Informationsseite von EH Status.
 
-EH Status is a Discord bot project intended to display information about Notruf Hamburg game servers.
+EH Status ist ein unabhängig entwickelter Discord-Bot, der Informationen über Server von Notruf Hamburg anzeigen soll.
 
-## Legal documents
+## Rechtliche Informationen
 
-- [Terms of Service](terms.md)
-- [Privacy Policy](privacy.md)
+- [Nutzungsbedingungen](terms.md)
+- [Datenschutzerklärung](privacy.md)
 
-These documents explain the terms for using EH Status and how the project handles data.
+Diese Dokumente erklären die Nutzungsregeln für EH Status und informieren darüber, wie das Projekt mit Daten umgeht.
